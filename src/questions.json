@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "category": "History",
+    "question": "Which ancient civilization is credited with the invention of the wheel?",
+    "options": [
+      "Ancient Egypt",
+      "Mesopotamia (Sumerians)",
+      "Indus Valley Civilization",
+      "Ancient China"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "category": "Science (Physics)",
+    "question": "What phenomenon occurs when light waves are bent as they pass from one medium to another?",
+    "options": [
+      "Reflection",
+      "Diffraction",
+      "Refraction",
+      "Interference"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "category": "Literature",
+    "question": "Who wrote 'The Canterbury Tales'?",
+    "options": [
+      "William Shakespeare",
+      "Geoffrey Chaucer",
+      "John Milton",
+      "Jane Austen"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 4,
+    "category": "Geography",
+    "question": "Which desert is the largest hot desert in the world?",
+    "options": [
+      "Gobi Desert",
+      "Arabian Desert",
+      "Sahara Desert",
+      "Kalahari Desert"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "category": "Art",
+    "question": "Which artistic movement emphasized emotion, individualism, and glorification of the past and nature, often in contrast to Neoclassicism?",
+    "options": [
+      "Baroque",
+      "Rococo",
+      "Romanticism",
+      "Impressionism"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 6,
+    "category": "Philosophy",
+    "question": "Which philosopher is known for the concept of the 'categorical imperative'?",
+    "options": [
+      "John Locke",
+      "David Hume",
+      "Immanuel Kant",
+      "Friedrich Nietzsche"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "category": "Technology",
+    "question": "What is the primary purpose of a 'kernel' in an operating system?",
+    "options": [
+      "To manage user interfaces",
+      "To handle network connections",
+      "To manage hardware resources and provide core system services",
+      "To run application software"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 8,
+    "category": "Music",
+    "question": "Which musical term refers to a rapid repetition of a single note?",
+    "options": [
+      "Arpeggio",
+      "Tremolo",
+      "Vibrato",
+      "Glissando"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 9,
+    "category": "History",
+    "question": "The Treaty of Westphalia in 1648 primarily ended which major European conflict?",
+    "options": [
+      "The Hundred Years' War",
+      "The Thirty Years' War",
+      "The War of the Roses",
+      "The Napoleonic Wars"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 10,
+    "category": "Science (Biology)",
+    "question": "What is the largest organ in the human body?",
+    "options": [
+      "Liver",
+      "Brain",
+      "Skin",
+      "Lungs"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 11,
+    "category": "Literature",
+    "question": "Who authored the dystopian novel 'Brave New World'?",
+    "options": [
+      "George Orwell",
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Yevgeny Zamyatin"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 12,
+    "category": "Geography",
+    "question": "Which of the following is an example of an 'isthmus'?",
+    "options": [
+      "Suez Canal",
+      "Panama Canal",
+      "Strait of Gibraltar",
+      "Bering Strait"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 13,
+    "category": "Art",
+    "question": "Which Renaissance artist is known for his frescoes in the Sistine Chapel, including 'The Creation of Adam'?",
+    "options": [
+      "Leonardo da Vinci",
+      "Raphael",
+      "Michelangelo",
+      "Donatello"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 14,
+    "category": "Philosophy",
+    "question": "Which school of thought asserts that humans are free and responsible for their own development through acts of will?",
+    "options": [
+      "Determinism",
+      "Existentialism",
+      "Nihilism",
+      "Hedonism"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 15,
+    "category": "Technology",
+    "question": "What does the acronym 'SQL' stand for in database management?",
+    "options": [
+      "Sequential Query Language",
+      "Structured Question Logic",
+      "Standard Query Lexicon",
+      "Structured Query Language"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 16,
+    "category": "Music",
+    "question": "Which renowned classical composer was deaf for a significant portion of his career?",
+    "options": [
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Franz Schubert"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 17,
+    "category": "History",
+    "question": "The 'Glorious Revolution' of 1688 primarily occurred in which country?",
+    "options": [
+      "France",
+      "England",
+      "Germany",
+      "Spain"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 18,
+    "category": "Science (Chemistry)",
+    "question": "What is the chemical formula for sulfuric acid?",
+    "options": [
+      "HCl",
+      "HNO3",
+      "H2SO4",
+      "H3PO4"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 19,
+    "category": "Literature",
+    "question": "In what language was 'Don Quixote' originally written?",
+    "options": [
+      "Italian",
+      "French",
+      "Spanish",
+      "Latin"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 20,
+    "category": "Geography",
+    "question": "Which country has the most natural lakes?",
+    "options": [
+      "USA",
+      "China",
+      "Canada",
+      "Russia"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 21,
+    "category": "Art",
+    "question": "Who painted 'The Persistence of Memory'?",
+    "options": [
+      "Pablo Picasso",
+      "Salvador Dalí",
+      "Claude Monet",
+      "Vincent van Gogh"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 22,
+    "category": "Philosophy",
+    "question": "Which ancient Greek philosopher famously said, 'The unexamined life is not worth living'?",
+    "options": [
+      "Plato",
+      "Aristotle",
+      "Socrates",
+      "Epicurus"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 23,
+    "category": "Technology",
+    "question": "What is 'Moore's Law' primarily concerned with?",
+    "options": [
+      "The increasing cost of computer hardware",
+      "The decreasing size of electronic devices",
+      "The exponential growth of transistors in an integrated circuit",
+      "The decline of physical data storage"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 24,
+    "category": "Music",
+    "question": "Which American composer is known for minimalist compositions such as 'Music for 18 Musicians'?",
+    "options": [
+      "Philip Glass",
+      "Steve Reich",
+      "John Cage",
+      "Terry Riley"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 25,
+    "category": "History",
+    "question": "The 'Edict of Nantes' (1598) granted substantial rights to Huguenots in which country?",
+    "options": [
+      "Germany",
+      "England",
+      "France",
+      "Netherlands"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 26,
+    "category": "Science (Astronomy)",
+    "question": "What is the name of the hypothetical region of spacetime where gravity is so strong that nothing, not even light, can escape?",
+    "options": [
+      "Wormhole",
+      "Event Horizon",
+      "Singularity",
+      "Quasar"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 27,
+    "category": "Literature",
+    "question": "Which novel features the character Heathcliff and is set on the Yorkshire moors?",
+    "options": [
+      "Jane Eyre",
+      "Pride and Prejudice",
+      "Wuthering Heights",
+      "Sense and Sensibility"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 28,
+    "category": "Geography",
+    "question": "What is the highest waterfall in the world?",
+    "options": [
+      "Niagara Falls",
+      "Victoria Falls",
+      "Angel Falls",
+      "Iguazu Falls"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 29,
+    "category": "Art",
+    "question": "Who created the sculpture 'David' (apart from Michelangelo), emphasizing classical balance and idealized human form?",
+    "options": [
+      "Donatello",
+      "Bernini",
+      "Cellini",
+      "Rodin"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": 30,
+    "category": "Philosophy",
+    "question": "Which philosophical concept describes the inherent meaninglessness of life in the absence of a higher purpose?",
+    "options": [
+      "Existentialism",
+      "Absurdism",
+      "Rationalism",
+      "Utilitarianism"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 31,
+    "category": "Technology",
+    "question": "What is the name of the first truly successful graphical web browser, released in 1993?",
+    "options": [
+      "Netscape Navigator",
+      "Internet Explorer",
+      "Mosaic",
+      "WorldWideWeb"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 32,
+    "category": "Music",
+    "question": "Which jazz musician was a pioneer of bebop and known for his virtuosic saxophone playing?",
+    "options": [
+      "Louis Armstrong",
+      "Duke Ellington",
+      "Charlie Parker",
+      "Miles Davis"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 33,
+    "category": "History",
+    "question": "The 'Meiji Restoration' in the 19th century significantly transformed which country?",
+    "options": [
+      "China",
+      "Korea",
+      "Japan",
+      "Thailand"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 34,
+    "category": "Science (Biology)",
+    "question": "Which of the following is an example of a monotreme?",
+    "options": [
+      "Kangaroo",
+      "Platypus",
+      "Pangolin",
+      "Armadillo"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 35,
+    "category": "Literature",
+    "question": "Who wrote the epic poem 'Paradise Lost'?",
+    "options": [
+      "Geoffrey Chaucer",
+      "John Milton",
+      "Edmund Spenser",
+      "Alexander Pope"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 36,
+    "category": "Geography",
+    "question": "Which sea is located between Europe and Asia and is the largest inland body of water in the world?",
+    "options": [
+      "Black Sea",
+      "Mediterranean Sea",
+      "Caspian Sea",
+      "Aral Sea"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 37,
+    "category": "Art",
+    "question": "Which Dutch Master is famous for his detailed genre paintings, often featuring domestic scenes and unique use of light?",
+    "options": [
+      "Rembrandt van Rijn",
+      "Jan Vermeer",
+      "Frans Hals",
+      "Pieter Bruegel the Elder"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 38,
+    "category": "Philosophy",
+    "question": "Which philosopher developed the 'Allegory of the Cave'?",
+    "options": [
+      "Aristotle",
+      "Socrates",
+      "Plato",
+      "Zeno of Elea"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 39,
+    "category": "Technology",
+    "question": "What is the name of the first successful programming language for artificial intelligence, developed in 1958?",
+    "options": [
+      "Python",
+      "Lisp",
+      "Prolog",
+      "Smalltalk"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 40,
+    "category": "Music",
+    "question": "Which operatic term refers to a light, agile singing style, often used for coloratura soprano roles?",
+    "options": [
+      "Legato",
+      "Staccato",
+      "Bel Canto",
+      "Sprechstimme"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 41,
+    "category": "History",
+    "question": "The 'Tennis Court Oath' was a pivotal event during which revolution?",
+    "options": [
+      "American Revolution",
+      "French Revolution",
+      "Russian Revolution",
+      "Glorious Revolution"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 42,
+    "category": "Science (Physics)",
+    "question": "What is the unit of electrical resistance?",
+    "options": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Watt"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 43,
+    "category": "Literature",
+    "question": "Which Irish writer is known for his stream-of-consciousness novel 'Ulysses'?",
+    "options": [
+      "W.B. Yeats",
+      "Samuel Beckett",
+      "James Joyce",
+      "Seamus Heaney"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 44,
+    "category": "Geography",
+    "question": "Which strait separates the Iberian Peninsula from North Africa?",
+    "options": [
+      "Strait of Hormuz",
+      "Strait of Malacca",
+      "Strait of Gibraltar",
+      "Bosphorus Strait"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 45,
+    "category": "Art",
+    "question": "Who is considered the pioneer of Cubism along with Pablo Picasso?",
+    "options": [
+      "Henri Matisse",
+      "Georges Braque",
+      "Fernand Léger",
+      "Juan Gris"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 46,
+    "category": "Philosophy",
+    "question": "Which ancient Chinese philosopher founded Taoism?",
+    "options": [
+      "Confucius",
+      "Laozi",
+      "Zhuangzi",
+      "Sun Tzu"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 47,
+    "category": "Technology",
+    "question": "What does 'HTTPS' stand for in web addresses?",
+    "options": [
+      "HyperText Transfer Protocol Secure",
+      "High-Traffic Transmission Protocol Service",
+      "Hyperlink Transfer Protocol System",
+      "Hashed Text Transfer Protocol Standard"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": 48,
+    "category": "Music",
+    "question": "What is the term for a recurring musical theme in an opera, often associated with a specific character, object, or idea?",
+    "options": [
+      "Aria",
+      "Recitative",
+      "Leitmotif",
+      "Cadenza"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 49,
+    "category": "History",
+    "question": "The 'Salt March' (Dandi March) was led by which historical figure?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Mahatma Gandhi",
+      "Subhas Chandra Bose"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 50,
+    "category": "Science (Chemistry)",
+    "question": "Which noble gas is used in bright electric signs to produce a reddish-orange glow?",
+    "options": [
+      "Argon",
+      "Krypton",
+      "Neon",
+      "Xenon"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 51,
+    "category": "Literature",
+    "question": "Who wrote 'One Hundred Years of Solitude'?",
+    "options": [
+      "Jorge Luis Borges",
+      "Gabriel García Márquez",
+      "Julio Cortázar",
+      "Mario Vargas Llosa"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 52,
+    "category": "Geography",
+    "question": "Which of these cities is NOT a capital city?",
+    "options": [
+      "Sydney",
+      "Ottawa",
+      "Wellington",
+      "Bern"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": 53,
+    "category": "Art",
+    "question": "Which art movement, emerging in the 1960s, often incorporated commercial images and pop culture references?",
+    "options": [
+      "Surrealism",
+      "Abstract Expressionism",
+      "Pop Art",
+      "Minimalism"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 54,
+    "category": "Philosophy",
+    "question": "Which concept in ethics proposes that the most ethical choice is the one that produces the greatest good for the greatest number?",
+    "options": [
+      "Deontology",
+      "Virtue Ethics",
+      "Utilitarianism",
+      "Egoism"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 55,
+    "category": "Technology",
+    "question": "What is the purpose of 'DNS' in networking?",
+    "options": [
+      "To encrypt internet traffic",
+      "To assign IP addresses to devices",
+      "To translate domain names to IP addresses",
+      "To manage network security protocols"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 56,
+    "category": "Music",
+    "question": "Which classical music form typically consists of four movements and is designed for a solo instrument or a small group?",
+    "options": [
+      "Symphony",
+      "Concerto",
+      "Sonata",
+      "Oratorio"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 57,
+    "category": "History",
+    "question": "Who was the last Tsar of Russia?",
+    "options": [
+      "Alexander II",
+      "Nicholas I",
+      "Alexander III",
+      "Nicholas II"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 58,
+    "category": "Science (Biology)",
+    "question": "What is the longest type of cell in the human body?",
+    "options": [
+      "Muscle cell",
+      "Red blood cell",
+      "Nerve cell (Neuron)",
+      "Skin cell"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 59,
+    "category": "Literature",
+    "question": "Who wrote 'The Metamorphosis'?",
+    "options": [
+      "Albert Camus",
+      "Franz Kafka",
+      "Fyodor Dostoevsky",
+      "Hermann Hesse"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 60,
+    "category": "Geography",
+    "question": "Which is the smallest country in the world by area?",
+    "options": [
+      "Monaco",
+      "Nauru",
+      "Vatican City",
+      "San Marino"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 61,
+    "category": "Art",
+    "question": "Which Japanese art form involves the folding of paper into decorative shapes and figures?",
+    "options": [
+      "Ikebana",
+      "Origami",
+      "Ukiyo-e",
+      "Bonsai"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 62,
+    "category": "Philosophy",
+    "question": "Which philosopher formulated the 'ontological argument' for the existence of God?",
+    "options": [
+      "Thomas Aquinas",
+      "Anselm of Canterbury",
+      "René Descartes",
+      "Immanuel Kant"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 63,
+    "category": "Technology",
+    "question": "What is 'blockchain' primarily known for?",
+    "options": [
+      "Centralized data storage",
+      "Decentralized and immutable ledger technology",
+      "Enhancing graphic processing power",
+      "Facilitating traditional banking transactions"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 64,
+    "category": "Music",
+    "question": "Which blues musician is often referred to as the 'King of the Delta Blues Singers'?",
+    "options": [
+      "Muddy Waters",
+      "B.B. King",
+      "Robert Johnson",
+      "John Lee Hooker"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 65,
+    "category": "History",
+    "question": "The 'Battle of Thermopylae' involved which two ancient powers?",
+    "options": [
+      "Romans and Carthaginians",
+      "Greeks (Spartans) and Persians",
+      "Egyptians and Hittites",
+      "Chinese and Mongols"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 66,
+    "category": "Science (Physics)",
+    "question": "What is the phenomenon where a continuous spectrum of light passes through a cool, dilute gas, and specific frequencies are absorbed?",
+    "options": [
+      "Emission spectrum",
+      "Continuous spectrum",
+      "Absorption spectrum",
+      "Dispersion"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 67,
+    "category": "Literature",
+    "question": "Who wrote the play 'A Streetcar Named Desire'?",
+    "options": [
+      "Arthur Miller",
+      "Eugene O'Neill",
+      "Tennessee Williams",
+      "Edward Albee"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 68,
+    "category": "Geography",
+    "question": "Which mountain range separates Europe from Asia?",
+    "options": [
+      "Alps",
+      "Pyrenees",
+      "Urals",
+      "Carpathians"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 69,
+    "category": "Art",
+    "question": "Which artist is known for his large-scale, colorful abstract paintings, often referred to as 'color field' paintings?",
+    "options": [
+      "Jackson Pollock",
+      "Mark Rothko",
+      "Willem de Kooning",
+      "Franz Kline"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 70,
+    "category": "Philosophy",
+    "question": "Which ethical theory focuses on the character or moral agent rather than on ethical duties or rules?",
+    "options": [
+      "Consequentialism",
+      "Deontology",
+      "Virtue Ethics",
+      "Egalitarianism"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 71,
+    "category": "Technology",
+    "question": "What does 'API' stand for in software development?",
+    "options": [
+      "Application Programming Interface",
+      "Advanced Protocol Integration",
+      "Automated Process Interpreter",
+      "Adaptive Program Instruction"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": 72,
+    "category": "Music",
+    "question": "Which musical instrument, originating in Scotland, is known for its distinct drone sounds and is often played in pipe bands?",
+    "options": [
+      "Accordion",
+      "Bagpipes",
+      "Hurdy-gurdy",
+      "Uilleann pipes"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 73,
+    "category": "History",
+    "question": "The 'Magna Carta' (1215) was a charter of liberties signed by which English monarch?",
+    "options": [
+      "Henry VIII",
+      "Richard I",
+      "John Lackland",
+      "Edward III"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 74,
+    "category": "Science (Chemistry)",
+    "question": "What is the process by which a solid changes directly into a gas without passing through a liquid phase?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Melting"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 75,
+    "category": "Literature",
+    "question": "Who is the author of 'The Handmaid's Tale'?",
+    "options": [
+      "Suzanne Collins",
+      "Margaret Atwood",
+      "Ursula K. Le Guin",
+      "Octavia Butler"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 76,
+    "category": "Geography",
+    "question": "Which river flows through Paris?",
+    "options": [
+      "Thames",
+      "Rhine",
+      "Seine",
+      "Danube"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 77,
+    "category": "Art",
+    "question": "Which art movement is characterized by its dreamlike, often bizarre imagery and exploration of the subconscious mind?",
+    "options": [
+      "Cubism",
+      "Futurism",
+      "Surrealism",
+      "Dadaism"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 78,
+    "category": "Philosophy",
+    "question": "Which philosopher's work is considered foundational to modern empiricism, asserting that the mind is a 'tabula rasa' (blank slate) at birth?",
+    "options": [
+      "René Descartes",
+      "Gottfried Wilhelm Leibniz",
+      "John Locke",
+      "George Berkeley"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 79,
+    "category": "Technology",
+    "question": "What is the primary function of 'VPN'?",
+    "options": [
+      "To speed up internet connection",
+      "To provide a secure and encrypted connection over a public network",
+      "To block unwanted advertisements",
+      "To manage local network devices"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 80,
+    "category": "Music",
+    "question": "Which legendary rock guitarist was known for his innovative use of feedback and distortion, famously playing at Woodstock?",
+    "options": [
+      "Eric Clapton",
+      "Jimi Hendrix",
+      "Jimmy Page",
+      "Jeff Beck"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 81,
+    "category": "History",
+    "question": "The 'Opium Wars' in the 19th century involved which two primary nations?",
+    "options": [
+      "Britain and France",
+      "China and Japan",
+      "Britain and China",
+      "Russia and China"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 82,
+    "category": "Science (Biology)",
+    "question": "What is the primary function of ribosomes in a cell?",
+    "options": [
+      "Energy production",
+      "Protein synthesis",
+      "Waste removal",
+      "Cellular respiration"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 83,
+    "category": "Literature",
+    "question": "Which American author coined the term 'The Lost Generation'?",
+    "options": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "William Faulkner",
+      "Gertrude Stein"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 84,
+    "category": "Geography",
+    "question": "Which country is home to the most volcanoes?",
+    "options": [
+      "Japan",
+      "Indonesia",
+      "USA (Alaska)",
+      "Chile"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 85,
+    "category": "Art",
+    "question": "Who is credited with inventing the technique of 'sfumato' in painting?",
+    "options": [
+      "Raphael",
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Titian"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 86,
+    "category": "Philosophy",
+    "question": "Which philosophical movement, associated with thinkers like Edmund Husserl, focuses on the direct investigation of phenomena as they are experienced?",
+    "options": [
+      "Rationalism",
+      "Empiricism",
+      "Phenomenology",
+      "Structuralism"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 87,
+    "category": "Technology",
+    "question": "What is the name of the first personal computer, introduced in 1975?",
+    "options": [
+      "Apple II",
+      "IBM PC",
+      "Altair 8800",
+      "Commodore 64"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 88,
+    "category": "Music",
+    "question": "Which renowned Italian opera composer wrote 'La traviata' and 'Rigoletto'?",
+    "options": [
+      "Giacomo Puccini",
+      "Giuseppe Verdi",
+      "Gioachino Rossini",
+      "Vincenzo Bellini"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 89,
+    "category": "History",
+    "question": "The 'Fall of Constantinople' in 1453 marked the end of which empire?",
+    "options": [
+      "Roman Empire",
+      "Byzantine Empire",
+      "Ottoman Empire",
+      "Holy Roman Empire"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 90,
+    "category": "Science (Physics)",
+    "question": "What is the principle that states that no two electrons in an atom can have the same set of four quantum numbers?",
+    "options": [
+      "Heisenberg Uncertainty Principle",
+      "Pauli Exclusion Principle",
+      "Hund's Rule",
+      "Aufbau Principle"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 91,
+    "category": "Literature",
+    "question": "Who wrote 'The Master and Margarita'?",
+    "options": [
+      "Leo Tolstoy",
+      "Fyodor Dostoevsky",
+      "Mikhail Bulgakov",
+      "Anton Chekhov"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 92,
+    "category": "Geography",
+    "question": "Which of these African countries is entirely landlocked?",
+    "options": [
+      "Nigeria",
+      "Kenya",
+      "Ethiopia",
+      "Ghana"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 93,
+    "category": "Art",
+    "question": "Which French Impressionist painter is particularly known for his series of water lilies paintings?",
+    "options": [
+      "Edgar Degas",
+      "Pierre-Auguste Renoir",
+      "Claude Monet",
+      "Édouard Manet"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 94,
+    "category": "Philosophy",
+    "question": "Which school of thought advocates for the pursuit of pleasure as the highest good, but emphasizes intellectual pleasure and tranquility over bodily sensations?",
+    "options": [
+      "Stoicism",
+      "Cynicism",
+      "Epicureanism",
+      "Skepticism"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 95,
+    "category": "Technology",
+    "question": "What does 'IoT' stand for?",
+    "options": [
+      "Internet of Things",
+      "Integrated Operating Technology",
+      "Internal Online Transactions",
+      "Intelligent Optical Transmission"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": 96,
+    "category": "Music",
+    "question": "Which American folk singer-songwriter is famous for protest songs like 'Blowin' in the Wind' and 'Like a Rolling Stone'?",
+    "options": [
+      "Bob Dylan",
+      "Woody Guthrie",
+      "Pete Seeger",
+      "Joan Baez"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": 97,
+    "category": "Current Affairs",
+    "question": "As of mid-2025, which nation recently announced a major breakthrough in commercially viable fusion energy research?",
+    "options": [
+      "China",
+      "United States",
+      "Japan",
+      "United Kingdom"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 98,
+    "category": "Current Affairs",
+    "question": "Which global organization recently launched a significant initiative aimed at digital literacy for underserved communities worldwide?",
+    "options": [
+      "World Bank",
+      "UNESCO",
+      "UNICEF",
+      "World Economic Forum"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 99,
+    "category": "Current Affairs",
+    "question": "Which country hosted the latest G7 summit in 2025?",
+    "options": [
+      "Germany",
+      "Italy",
+      "Canada",
+      "France"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 100,
+    "category": "Current Affairs",
+    "question": "What new international treaty concerning deep-sea mining regulations was finalized in early 2025?",
+    "options": [
+      "The Ocean Biodiversity Treaty",
+      "The United Nations Convention on the Law of the Sea (UNCLOS) amendment",
+      "The Deep Seabed Resources Agreement",
+      "The Marine Mineral Exploitation Protocol"
+    ],
+    "answer_index": 0
+  }
+]
