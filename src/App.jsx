@@ -2,9 +2,9 @@ import logo from './assets/logo.png';
 import './App.css';
 import './index.css';
 
-import Welcome from './components/Welcome.jsx';
+import Welcome from './components/welcome.jsx';
 import InGameNavigation from './components/inGameNavigation.jsx';
-import ShowQuestion from './components/ShowQuestion.jsx';
+import ShowQuestion from './components/showQuestion.jsx';
 import ResultsDisplay from './components/ResultsDisplay.jsx';
 
 import useQuizLogic from './hooks/useQuizLogic';
