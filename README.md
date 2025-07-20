@@ -1,14 +1,77 @@
-# React + Vite
+# 🧠 Puch Le - A Quiz Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Puch Le** is a fast and fun quiz application built with **React** and **Vite**, featuring a sleek UI, timer-based gameplay, scoring logic, and a final result summary.
 
-Currently, two official plugins are available:
+Test your general knowledge in a smooth, engaging experience!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ 10 randomly selected questions per game from a pool of 100
+- ⏱️ Timer-based gameplay (25 seconds per question)
+- 📊 Smart scoring logic:
+  - +4 for correct answers
+  - -1 for incorrect answers
+  - 0 for skipped questions
+- 🎉 Animated result screen with detailed answer breakdown
+- ♻️ Restart button to play again
+- 📱 Responsive UI
+- ⚡ Powered by Vite for lightning-fast development/builds
 
-# puch-le-quiz
+---
+
+## 🖼️ Screenshots
+
+<img width="1742" height="921" alt="image" src="https://github.com/user-attachments/assets/f95a595b-c1d5-414b-ab0d-e3378b983ace" />
+<img width="1829" height="918" alt="image" src="https://github.com/user-attachments/assets/e23a72c1-ff9a-4c7b-aab9-40384ba7d0ce" />
+<img width="1252" height="924" alt="image" src="https://github.com/user-attachments/assets/aa63715d-342e-4e6a-8ec6-15537ca164ed" />
+
+
+
+
+---
+
+## 🔧 Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- JSON for question storage
+
+---
+
+## 📁 Folder Structure
+
+src/
+│
+├── components/
+│ ├── Welcome.jsx
+│ ├── InGameNavigation.jsx
+│ ├── ShowQuestion.jsx
+│ └── ResultsDisplay.jsx
+│
+├── assets/
+│ ├── logo.png
+│ └── react.svg
+│
+├── App.jsx
+├── questions.json
+├── index.css
+└── main.jsx
+
+---
+
+## 📦 Installation & Running Locally
+
+```bash
+git clone https://github.com/your-username/puch-le.git
+cd puch-le
+npm install
+npm run dev
+
+Then open http://localhost:5173 in your browser.
+
+🌐 Live Demo
+Deployed on Netlify:
+🔗 https://your-netlify-site.netlify.app
