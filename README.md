@@ -23,9 +23,9 @@ Test your general knowledge in a smooth, engaging experience!
 
 ## 🖼️ Screenshots
 
-<img width="1742" height="921" alt="image" src="https://github.com/user-attachments/assets/f95a595b-c1d5-414b-ab0d-e3378b983ace" />
-<img width="1829" height="918" alt="image" src="https://github.com/user-attachments/assets/e23a72c1-ff9a-4c7b-aab9-40384ba7d0ce" />
-<img width="1252" height="924" alt="image" src="https://github.com/user-attachments/assets/aa63715d-342e-4e6a-8ec6-15537ca164ed" />
+<img width="800" height="auto" alt="image" src="https://github.com/user-attachments/assets/f95a595b-c1d5-414b-ab0d-e3378b983ace" />
+<img width="800" height="auto" alt="image" src="https://github.com/user-attachments/assets/e23a72c1-ff9a-4c7b-aab9-40384ba7d0ce" />
+<img width="800" height="auto" alt="image" src="https://github.com/user-attachments/assets/aa63715d-342e-4e6a-8ec6-15537ca164ed" />
 
 
 
@@ -38,27 +38,6 @@ Test your general knowledge in a smooth, engaging experience!
 - Vite
 - Tailwind CSS
 - JSON for question storage
-
----
-
-## 📁 Folder Structure
-
-src/
-│
-├── components/
-│ ├── Welcome.jsx
-│ ├── InGameNavigation.jsx
-│ ├── ShowQuestion.jsx
-│ └── ResultsDisplay.jsx
-│
-├── assets/
-│ ├── logo.png
-│ └── react.svg
-│
-├── App.jsx
-├── questions.json
-├── index.css
-└── main.jsx
 
 ---
 
