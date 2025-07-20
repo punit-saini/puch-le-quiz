@@ -44,7 +44,7 @@ Test your general knowledge in a smooth, engaging experience!
 ## 📦 Installation & Running Locally
 
 ```bash
-git clone https://github.com/your-username/puch-le.git
+git clone https://github.com/punit-saini/puch-le.git
 cd puch-le
 npm install
 npm run dev
@@ -53,4 +53,4 @@ Then open http://localhost:5173 in your browser.
 
 🌐 Live Demo
 Deployed on Netlify:
-🔗 https://your-netlify-site.netlify.app
+🔗 [https://your-netlify-site.netlify.app](https://puch-le-quiz.netlify.app/)
