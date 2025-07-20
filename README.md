@@ -53,4 +53,4 @@ Then open http://localhost:5173 in your browser.
 
 🌐 Live Demo
 Deployed on Netlify:
-🔗 [https://your-netlify-site.netlify.app](https://puch-le-quiz.netlify.app/)
+🔗 https://puch-le-quiz.netlify.app/
